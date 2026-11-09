@@ -20,22 +20,13 @@ I turn raw data into clear insights. I work with **SQL, Excel, Power BI and Pyth
 
 ## 📊 Featured Projects
 
-### 🔹 Data Jobs Dashboard (Power BI)
-Two interactive dashboards on 2024 data science job postings. V1 uses drill-through, bookmarks and map charts. V2 uses a star-schema model with DAX measures and field parameters.
-
 ### 🔹 Job Market Analysis (SQL)
 Analyzed ~4.6M rows in PostgreSQL to find top-paying roles and in-demand skills for data analysts.
 👉 [`SQL_PROJECT_JOB_ANALYST`](https://github.com/Abdul-Rafay688/SQL_PROJECT_JOB_ANALYST)
 
-### 🔹 Salary Calculator & Skills Analysis (Excel)
-An interactive salary calculator dashboard built on ~32,000 job postings, plus a skill/salary workbook using Power Query, the Data Model and PivotTables.
-
 ### 🔹 Python for Data Analytics
 Notebooks covering data cleaning, analysis and charts, with written insights.
 👉 [`Python-For-Data-Analytics`](https://github.com/Abdul-Rafay688/Python-For-Data-Analytics)
-
-### 🔹 Air Quality & Smog Analysis (in progress)
-Analyzing air quality and smog trends across Pakistani cities.
 
 ---
 
@@ -49,8 +40,8 @@ Analyzing air quality and smog trends across Pakistani cities.
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [add your link here]
-- 📧 Email: [add your email here]
+- 💼 LinkedIn: [https://www.linkedin.com/in/abdul-rafay-034270309/]
+- 📧 Email: [rafayhisbanibaloch@gmail.com]
 
 ---
 
